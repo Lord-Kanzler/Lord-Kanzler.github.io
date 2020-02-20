@@ -8,6 +8,8 @@ My name is Inigo Montoya. I have the following qualities:
 
 - I rock a great mustache
 - I'm extremely loyal to my family
+- I like food
+- I love dogs
 
 What else do you need?
 
