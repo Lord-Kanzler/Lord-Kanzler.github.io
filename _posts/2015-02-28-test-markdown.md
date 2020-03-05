@@ -26,7 +26,7 @@ Here's a useless table:
 
 How about a yummy crepe?
 
-[Test]{% include gmap_plot.html %}
+% include gmap_plot.html %
 
 It can also be centered!
 
