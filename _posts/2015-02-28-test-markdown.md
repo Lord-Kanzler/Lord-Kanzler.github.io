@@ -26,7 +26,7 @@ Here's a useless table:
 
 How about a yummy crepe?
 
-![Crepe](gmap_plot.html)
+gmap_plot.html
 
 It can also be centered!
 
