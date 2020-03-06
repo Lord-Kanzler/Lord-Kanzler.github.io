@@ -12,9 +12,9 @@ I'm an avid cyclist and motorcycle rider, and since I moved to the Washington DC
 
 The accident was only minor, a couple scuffs and bruises, nothing searious. And don't get me wrong, I am highly aware of the bad traffic reputation the DC metro area has, and I am on my guard at all times. 
 
-But ever since, I have been wondering if there are specific areas cyclists or bikers sholuld avoid, or if there are areas particularly well suited for roaming the streets on two wheels.
+But ever since, I have been wondering if there are specific areas cyclists or bikers should avoid, or if there are areas particularly well suited for roaming the streets on two wheels.
 
-
+Open Data DC[LINK](https://opendata.dc.gov/datasets/70392a096a8e431381f1f692aaa06afd_24)
 
 {% include gmap_plot_all_2020.html %}
 
