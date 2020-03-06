@@ -15,15 +15,7 @@ comments: true
 
 {% include gmap_plot_all_2020.html %}
 
-*Figure Legend:*
-
-*Blue Circles indicate Motor Vehicle accidents involving Cyclists*
-
-*Green Circles indicate Motor Vehicle accidents involving Pedestrians*
-
-*Red Circles indicate Motor Vehicle only accidents*
-
-*Variation is Circle Size indicates the number of impaired individuals*
+*Figure Legend:\n Blue Circles indicate Motor Vehicle accidents involving Cyclists\n Green Circles indicate Motor Vehicle accidents involving Pedestrians\n Red Circles indicate Motor Vehicle only accidents\n Variation is Circle Size indicates the number of impaired individuals*
 
 
 
