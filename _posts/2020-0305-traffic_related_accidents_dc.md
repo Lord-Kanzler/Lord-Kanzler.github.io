@@ -22,4 +22,4 @@ comments: true
 
 
 
-If interested in in the Code Source, please click [here](https://github.com/Lord-Kanzler/DS-Unit-1-Build/blob/master/LS_DS13_Unit_1_Build_DATA_ALEX_KAISER.ipynb) for the Colabs Notebook.
+If interested in in the Code Source, please click [here](https://github.com/Lord-Kanzler/DS-Unit-1-Build/blob/master/LS_DS13_Unit_1_Build_DATA_ALEX_KAISER.ipynb) for the Google Colabs Notebook.
