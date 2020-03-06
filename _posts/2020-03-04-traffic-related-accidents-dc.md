@@ -14,31 +14,21 @@ The accident was only minor, a couple scuffs and bruises, nothing serious. And d
 
 But ever since, I have been wondering if there are specific areas cyclists or bikers should avoid, or if there are areas particularly well suited for roaming the streets on two wheels.
 
-
-
-Open Data DC[LINK](https://opendata.dc.gov/datasets/70392a096a8e431381f1f692aaa06afd_24)
+For the purpose of this investigation, I have aquired a data set on all reported motor vehicle related incidents, which is maintained by the District Department of Transportation (DDOT). This data can be accessed via the [Open Data DC](https://opendata.dc.gov/datasets/70392a096a8e431381f1f692aaa06afd_24) repository. 
 
 {% include gmap_plot_all_2020.html %}
 
 *Figure Legend: BLUE CIRCLES indicate Motor Vehicle accidents involving Cyclists. GREEN CIRCLES indicate Motor Vehicle accidents involving Pedestrians. RED CIRCLES indicate Motor Vehicle only accidents. Variation is Circle Size indicates the number of impaired individuals*
 
+I started out creating a visualization showing occurences of traffic related incidents resulting in injuries or deaths, trying to determine if there are some localized trends for for motor vehicle accidents involving cyclists, pedestrians, and car collisions. 
 
+While informative and somewhat staggering, these incidents appear to be of a systemic nature, rather than follow localized patterns. Since the beginning of 2020 alone, there were 4061 reported incidents resulting in some form of injuries or death. 
 
-
-
-
-
-
-
-
+Realizing that the rate of incidents is far larger than imagined, I started looking into accidents with fatal outcomes. For this purpose I have chosen to include 2019 data.
 
 {% include gmap_plot_fatal_2019.html %}{: .center-block :}
 
-
-
-
-
-
+With 30860 reported incidents since Jan 1st 2019 the total number of accidents still seems rather large in relation to the size of Washington DC, it is not as bad as first impressions suggested. Within this timeframe, there were 33 traffic related fatalities. Of wich roughly 80% involved car crashes or car on pedestrian accidents. The smallest fraction involved cyclists.
 
 {% include plotly_injury_and_death_2019.html %}{: .center-block :}
 
