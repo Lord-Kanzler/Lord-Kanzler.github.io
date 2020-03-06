@@ -8,11 +8,13 @@ tags: [DS, DC, Traffic]
 comments: true
 ---
 
-I'm an avid cyclist and motorcycle rider, and since I moved to the Washington DC area a couple years back, people kept on asking me "if I'm not  even a tiny bit affraid riding around in DC." Usually, I didn't really think to much of it afterwards thinking "well traffic is bad in any major city in the US," and continued doing what I like, and maybe ignoring my inner voice of reason. That is, until I was hit by a unattentive driver thexting on his phone.  
+I’m an avid cyclist and motorcycle rider, and since I moved to the Washington DC area a couple of years back, people kept on asking me “if I’m not even a tiny bit afraid riding around in DC.” Usually, I didn’t think too much of it afterward thinking “well traffic is bad in any major city in the US,” and continued doing what I like, and maybe ignoring my inner voice of reason. That is until I was hit by an inattentive driver texting on his phone.
 
-The accident was only minor, a couple scuffs and bruises, nothing searious. And don't get me wrong, I am highly aware of the bad traffic reputation the DC metro area has, and I am on my guard at all times. 
+The accident was only minor, a couple scuffs and bruises, nothing serious. And don’t get me wrong, I am highly aware of the bad traffic reputation the DC metro area has, and I am on my guard at all times.
 
 But ever since, I have been wondering if there are specific areas cyclists or bikers should avoid, or if there are areas particularly well suited for roaming the streets on two wheels.
+
+
 
 Open Data DC[LINK](https://opendata.dc.gov/datasets/70392a096a8e431381f1f692aaa06afd_24)
 
