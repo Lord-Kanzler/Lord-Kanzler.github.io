@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Risk of Injury and Death Roaming the Streets of Washington DC 
-subtitle: Traffic related Injuries and Deaths in DC since JAN 01 2019
+subtitle: Traffic related Injuries and Deaths in DC since JAN-01-2019
 gh-repo: Lord-Kanzler/DS-Unit-1-Build
 gh-badge: [star, fork, follow]
 tags: [DS, DC, Traffic]
@@ -13,7 +13,7 @@ comments: true
 
 
 
-{% include gmap_plot_all_2020.html %:.center-block :}
+{% include gmap_plot_all_2020.html %}
 
 *Figure Legend: BLUE CIRCLES indicate Motor Vehicle accidents involving Cyclists. GREEN CIRCLES indicate Motor Vehicle accidents involving Pedestrians. RED CIRCLES indicate Motor Vehicle only accidents. Variation is Circle Size indicates the number of impaired individuals*
 
