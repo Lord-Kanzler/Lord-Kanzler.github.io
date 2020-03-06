@@ -22,7 +22,7 @@ For the purpose of this investigation, I have acquired a data set on all reporte
 
 I started out creating a visualization showing occurrences of traffic-related incidents resulting in injuries or deaths, trying to determine if there are some localized trends for motor vehicle accidents involving cyclists, pedestrians, and car collisions. 
 
-While informative and somewhat staggering, these incidents appear to be systemic, rather than follow localized patterns. Since the beginning of 2020 alone, 4061 reported incidents resulting in some form of injuries or death.
+While informative and somewhat staggering, these incidents appear to be systemic, rather than follow localized patterns. Since the beginning of 2020 alone, 4,061 reported incidents resulting in some form of injuries or death.
 
 Realizing that the rate of incidents is far larger than imagined, I started looking into accidents with fatal outcomes. For this purpose, I have chosen to include 2019 data.
 
