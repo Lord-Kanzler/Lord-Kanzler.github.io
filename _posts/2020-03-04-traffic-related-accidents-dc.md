@@ -28,7 +28,9 @@ Realizing that the rate of incidents is far larger than imagined, I started look
 
 {% include gmap_plot_fatal_2019.html %}{: .center-block :}
 
-With 30860 reported incidents since Jan 1st, 2019 the total number of accidents still seems rather large in relation to the size of Washington DC, it is not as bad as first impressions suggested. Within this timeframe, there were 33 traffic-related fatalities. Of which roughly 80% involved car crashes or car on pedestrian accidents. The smallest fraction involved cyclists.
+With 30,860 reported incidents since Jan 1st, 2019 the total number of accidents still seems rather large in relation to the size of Washington DC, it is not as bad as first impressions suggested. 
+
+Within this timeframe, there were 33 traffic-related fatalities. Of which roughly 80% involved car crashes or car on pedestrian accidents. The smallest fraction involved cyclists.
 
 {% include plotly_injury_and_death_2019.html %}{: .center-block :}
 
