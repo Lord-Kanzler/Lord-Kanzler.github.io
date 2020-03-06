@@ -9,11 +9,28 @@ comments: true
 ---
 
 
+{% include gmap_plot_all_2020.html %}
 
 
 
 
 
+
+
+
+
+
+
+
+{% include gmap_plot_fatal_2019.html %}
+
+
+
+
+
+
+
+{% include plotly_injury_and_death_2019.html %}
 
 
 
