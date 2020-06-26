@@ -172,7 +172,7 @@ The function below returns a list of tuples containing k nearest neighbors and t
 
 So, we have built a working kNN classifier algorithm from scratch. Let's see how it stacks up against one of the most commonly used kNN classifier, Scikit-learn.
 
-***Loading the relevant Scikit-learn packages, and preparing some sample data
+***Loading the relevant Scikit-learn packages, and preparing some sample data***
 ```py
 # Import packages
 from sklearn.datasets import load_iris
