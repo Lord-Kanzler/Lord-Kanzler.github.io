@@ -10,7 +10,7 @@ comments: false
 ---
 
 In this tutorial I will walk through a basic implementation of the **k-Nearest Neighbors algorithm** including how it works and how to implement it from scratch in Python (only using numpy). 
-The k-Nearest Neighbors algorithm is a relatively simple but powerful approach for making predictions. At it's core the principle behind the k-Nearest Neighbors algorithm is to use most similar historical examples to make predictions on new data. As such it is a great starting point to learn about classification algorithms. There are no models that need training, everything is open, and each step is straigh forward, and easy to follow.
+The k-Nearest Neighbors algorithm is a relatively simple but powerful approach for making predictions. At it's core the principle behind the k-Nearest Neighbors algorithm is to use most similar historical examples to make predictions on new data. As such it is a great starting point to learn about classification algorithms. There are no models that need training, everything is open, and each step is straight forward, and easy to follow.
 
 
 ### k Nearest Neighbors Overview
