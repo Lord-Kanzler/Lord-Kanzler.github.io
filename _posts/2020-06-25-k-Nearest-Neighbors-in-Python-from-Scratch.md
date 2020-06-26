@@ -10,16 +10,16 @@ comments: false
 ---
 
 In this tutorial I will walk through a basic implementation of the **k-Nearest Neighbors algorithm** including how it works and how to implement it from scratch in Python (only using numpy). 
-The k-Nearest Neighbors algorithm is a relatively simple but powerful approach for making predictions. At it's core the principle behind the k-Nearest Neighbors algorithm is to use most similar historical examples to make predictions on new data. As such it is a great starting point to learn about classification algorithms. There are no models that need training, everything is open, and each step is straight forward, and easy to follow.
+The k-Nearest Neighbors algorithm is a relatively simple but powerful approach for making predictions. At its core the principle behind the k-Nearest Neighbors algorithm is to use the most similar historical examples to make predictions on new data. As such it is a great starting point to learn about classification algorithms. There are no models that need training, everything is open, and each step is straight forward, and easy to follow.
 
 
 ### k Nearest Neighbors Overview
-The k-Nearest Neighbors algorithm or KNN for short is a pretty simple technique.
+The k-Nearest Neighbors algorithm, or KNN for short, is a pretty simple technique.
 The entire training dataset is stored, and when a prediction is required, the k-most similar records to a new record from the training dataset are then located. From these neighbors, a summarized prediction is made.
 
-Similarity between records can be measured many different ways. A great starting point is the Euclidean distance since we're mostly dealing with tabular data when approaching Data Science related problems in Python. According to [Wikipedia](https://en.wikipedia.org/wiki/Euclidean_distance), it is the straight-line distance between two points. I won't go into to much details regarding Euclidian distance, but if you're interested, the Wikipedia link above is a good starting point for your research.
+Similarity between records can be measured many different ways. A great starting point is the Euclidean distance since we're mostly dealing with tabular data when approaching Data Science-related problems in Python. According to [Wikipedia](https://en.wikipedia.org/wiki/Euclidean_distance), it is the straight-line distance between two points. I won't go into too much detail regarding Euclidian distance, but if you're interested, the Wikipedia link above is a good starting point for your research.
 
-Once neighbors are discovered, a summary prediction can be made by returning the most common outcome or taking the average. As such, KNN are pretty versitile, and can be used for classification or even regression problems. 
+Once neighbors are discovered, a summary prediction can be made by returning the most common outcome or taking the average. As such, KNN are pretty versatile, and can be used for classification or even regression problems. 
 
 
 ### The 3 basic steps for building a k-Nearest Neighbors algorithm
@@ -32,12 +32,12 @@ This k-Nearest Neighbors implementation is broken down into 3 simple steps:
 
   * Step 3: Getting the Nearest Neighbors.
 
-I will start, by using code snippets relevant to the individual steps to help walking through the process. Afterwards I will provide a an assembled version of the code.
+I will start, by using code snippets relevant to the individual steps to help walking through the process. Afterwards I will provide an assembled version of the code.
 
 
 ### Step 1: Calculate the Euclidean Distance
 
-The first step is to calculate the distance between two rows in a dataset. It is calculated as the square root of the sum of the squared differences between the two vectors. That's a mouth full.
+The first step is to calculate the distance between two rows in a dataset. It is calculated as the square root of the sum of the squared differences between the two vectors. That's a mouthful.
 
 Basically, all we want is to iterate through each row of a data set at a given index and subtract the two values from each other (a and b in example code). Afterwards we square the difference, and add that value to the existing distance total. 
 
@@ -65,9 +65,9 @@ def euclidean_distance(self, a, b):
 
 ### Step 2: Fit and Predict
 
-The next step is to fit the KNN classifier. This step isn't strictly necessary for making predictions, but loading the entire historical data into memory is useful for the calcuation of accurate predictions in the next step.
+The next step is to fit the KNN classifier. This step isn't strictly necessary for making predictions, but loading the entire historical data into memory is useful for the calculation of accurate predictions in the next step.
 
-In python this would look something like this:
+In python it would look something like this:
 
 ```py
   def fit_knn(self, X_train, y_train):
@@ -170,7 +170,7 @@ The function below returns a list of tuples containing k nearest neighbors and t
 
 ### Comparing this basic build with a kNN Classifier from Scikit-learn
 
-So, we have build a a working kNN classifier algorithm from scratch. Let's see how it stacks up against one of the most commonly used kNN classifier, Scikit-learn.
+So, we have built a working kNN classifier algorithm from scratch. Let's see how it stacks up against one of the most commonly used kNN classifier, Scikit-learn.
 
 ***Loading the relevant Scikit-learn packages, and preparing some sample data
 ```py
@@ -217,7 +217,7 @@ print(f"Build k_nearest_neighbors model accuracy: {accuracy_score(y_test, predic
 ```
 Build k_nearest_neighbors model accuracy: 0.9333333333333333
 
-NOT TO SHABBY!
+NOT TOO SHABBY!
 
 ### Summary
 We have implemented a simple but reasonably accurate version of a kNN classification algorithm in python. It performs very similarly to Scikit-learn kNN KNeighborsClassifier.
