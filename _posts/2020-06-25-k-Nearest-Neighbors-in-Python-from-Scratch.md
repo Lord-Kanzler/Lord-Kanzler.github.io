@@ -115,7 +115,7 @@ This is now followed by implementing the predictive part:
 
         return prediction_knn
 ```
-Let me quickly explain what this part of the code is doing. Essentially we have several **for loops. A Main loop which in turn includes several sub loops.
+Let me quickly explain what this part of the code is doing. Essentially we have several **for** loops. A Main loop which in turn includes several sub loops.
 
 The Main loop iterates through the data points of X. On every iteration, the euclidean_distance() function from Step 1 is called to calculate the distance to every data point in X_train (yes there are more efficient ways to do this). 
 
