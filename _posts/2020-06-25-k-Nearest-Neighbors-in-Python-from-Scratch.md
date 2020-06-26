@@ -222,7 +222,7 @@ NOT TO SHABBY!
 ### Summary
 We have implemented a simple but reasonably accurate version of a kNN classification algorithm in python. It performs very similarly to Scikit-learn kNN KNeighborsClassifier.
 
-Files for the full implementation of this kNN classification algorithm as well as Usage instructions and functional test data examples can be found in my [GitHub Repo](https://github.com/Lord-Kanzler/CS-Data-Science-Build-Week-1)
+Files for the full implementation of this kNN classification algorithm as well as Usage instructions and functional test data examples can be found in my [GitHub Repo](https://github.com/Lord-Kanzler/CS-Data-Science-Build-Week-1).
 
 
 
