@@ -4,7 +4,7 @@ title: Developing a Bridge Site Visualization and Prediction Tool for the Bridge
 subtitle: Or an extensive exercise in data cleaning and preparation
 gh-repo: Lambda-School-Labs/Labs25-Bridges_to_Prosperity-TeamB-ds
 gh-badge: [star, fork, follow]
-image: /img/Bridges_to_Prosperity_blogpost.jpg
+image: /img/B2P.jpg
 tags: [Python, Models, Data Science, AWS Elastic Beanstalk, Docker, FastAPI]
 comments: false
 ---
