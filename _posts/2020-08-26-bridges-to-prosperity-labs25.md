@@ -117,4 +117,24 @@ The resulting endpoint output looks like this: (Here a [link](http://bridges-to-
 Not really much more to it.
 
 
-### Current progress, 
+### Current state, progress and future features
+**(full disclosure, this project is still in the making largely subject to change, only reason the following paragraphs have been written is the fulfillment of a premature blog post requirement along the lines of "writing an essay on a book you yet have to read")** 
+
+We are in the process of finishing up on the requirements for release 1 of this project. Data merging procedures are well on their way, and our web-dev team has been working hard on implementing a mapping took(using Mapbox API) to visualize bride site location and meta information.
+
+Currently it looks like this:
+<!-- ![MAP](/img/B2P_website%20_screenshot.jpg "Example Bridge Sites" ) 
+
+
+![MAP](/img/B2P_website%20_screenshot_popup.jpg "Bridge Sites with Popup") -->
+
+<p float="left">
+  <img src="/img/B2P_website%20_screenshot.jpg" width="500" />
+  <img src="/img/B2P_website%20_screenshot_popup.jpg" width="500" /> 
+</p>
+
+There are probably going to be some changes to the maps functionality to account for full information on display and the quantity of bridge site locations.
+
+The data science team is currently finishing merging B2Ps site assessment data with Rwandas official codes sand names data. The resulting dataset will constitute a crucial core requirement for Bridges to Prosperity. From there it is relatively trivial to set up an endpoint and pass on this information to be displayed within the web mapping tool application.
+
+As the construction of a predictive model requires prior knowledge of the content and constitution of input data, we are finally ready to fully begin working on a model. For this purpose I've already written pseudo code and set up a base model wireframe. To be continued..
