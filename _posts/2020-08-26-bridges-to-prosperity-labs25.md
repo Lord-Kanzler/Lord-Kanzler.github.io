@@ -123,10 +123,6 @@ Not really much more to it.
 We are in the process of finishing up on the requirements for release 1 of this project. Data merging procedures are well on their way, and our web-dev team has been working hard on implementing a mapping took(using Mapbox API) to visualize bride site location and meta information.
 
 Currently it looks like this:
-<!-- ![MAP](/img/B2P_website%20_screenshot.jpg "Example Bridge Sites" ) 
-
-
-![MAP](/img/B2P_website%20_screenshot_popup.jpg "Bridge Sites with Popup") -->
 
 <p float="left">
   <img src="/img/B2P_website%20_screenshot.jpg" width="500" />
