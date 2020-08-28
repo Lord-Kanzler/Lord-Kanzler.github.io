@@ -125,8 +125,8 @@ We are in the process of finishing up on the requirements for release 1 of this 
 Currently it looks like this:
 
 <p float="left">
-  <img src="/img/B2P_website%20_screenshot.jpg" width="500" />
-  <img src="/img/B2P_website%20_screenshot_popup.jpg" width="500" /> 
+  <img src="/img/B2P_website%20_screenshot.jpg" width="400" />
+  <img src="/img/B2P_website%20_screenshot_popup.jpg" width="400" /> 
 </p>
 
 There are probably going to be some changes to the maps functionality to account for full information on display and the quantity of bridge site locations.
