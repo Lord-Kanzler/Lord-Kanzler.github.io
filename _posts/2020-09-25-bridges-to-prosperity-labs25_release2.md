@@ -66,7 +66,7 @@ and the returning output like this:
  ...
 
 ```
-
+<br>
 ## Release 2 and Technical Challenges
 
 While we generally made a lot of progress and were able to deliver on all requirements for **RELEASE 1**, the data merging aspect of this project turned out to be more challenging that we initially anticipated. Due the nature of the data, use of standard merge functions and workflows was not possible and we were required to come up with a decision tree like workflow in order to account for all the numerous edge cases and data inconsistencies.
@@ -131,7 +131,7 @@ And an addition `/final-data/extended` endpoint, Similar to the `/final-data` en
     "country": "Rwanda"
   },
   ```
-
+<br>
 ### Merged dataset Endpoints
 
 The two deployed production endpoints `/final-data` and `/final-data/extended` follow a slightly different approach as the returned JSON object data required a specific structure in order to be integrated with the web-backend application.
@@ -191,7 +191,7 @@ The web application can be found here:
 
 And a detailed description of our API as well as deployment procedures can be found following the repository link above, or [here](https://github.com/Lambda-School-Labs/Labs25-Bridges_to_Prosperity-TeamB-ds)
 
-
+<br>
 ## Lambda Labs Review and Reflection
 
 At this point I'm not fully certain what to think about Lambda Labs, at least the way I experienced it. During the first month of going though the process I got the distinct impression that Labs doesn't fully know what it wants to be yet, and if it rather focuses on developing a finished product, or focuses on career skills instead, getting participants ready for the application process. 
